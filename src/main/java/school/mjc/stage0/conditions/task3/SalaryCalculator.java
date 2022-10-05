@@ -2,7 +2,7 @@ package school.mjc.stage0.conditions.task3;
 
 public class SalaryCalculator {
     public void calculateSalary(int salary) {
-        int salary1 = 5000;
+        int salary1 = 25000;
         if (salary1 <= 10000) {
             System.out.println(salary1 * 0.15);
         } else {
